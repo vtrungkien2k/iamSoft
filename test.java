@@ -47,6 +47,7 @@ public class test {
         System.out.println(tree.get("77"));
        
           //Test pull
+        System.out.print("Đây là phần test");
     }
 }
 
